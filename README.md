@@ -285,7 +285,7 @@ This project is created as part of the AppDost Frontend Developer assignment.
 
 ⭐ **If you like this project, please give it a star!**
 
-🔗 **Live Demo:** [Your Deployed URL]  
+🔗 **Live Demo:** [[Your Deployed URL](https://app-dost-ui.vercel.app/)]  
 📦 **GitHub Repo:** https://github.com/NeilLandge/AppDost-UI
 
 ---
